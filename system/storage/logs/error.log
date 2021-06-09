@@ -1,0 +1,76 @@
+2021-06-09 10:33:42 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 10:33:42 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 10:33:42 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 10:33:42 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 10:33:42 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 10:34:31 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 10:34:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 10:34:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 10:34:31 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 10:34:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:04:53 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:04:53 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:04:53 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:04:53 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:04:53 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:08:16 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:08:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:08:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:08:16 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:08:16 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:08:22 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:08:22 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:08:22 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:08:22 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:08:22 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:12:02 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:12:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:12:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:12:02 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:12:02 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:12:11 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:12:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:12:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:12:11 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:12:11 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:12:38 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:12:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:12:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:12:38 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:12:38 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:13:54 - PHP Warning:  mysqli::__construct(): (HY000/2002): ��������� �� �����������, �.�. ������ ������� ������ ������ �� ���������.
+ in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:13:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:13:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:13:54 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:13:54 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:22:25 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:22:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:22:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:22:25 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:22:25 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:22:40 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:22:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:22:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:22:40 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:22:40 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:22:52 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'magazinsmesiteley' in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:22:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:22:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:22:52 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:22:52 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:22:59 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:22:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:22:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:22:59 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:22:59 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:23:02 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:23:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:23:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:23:02 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:23:02 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:24:42 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'magazinsmesiteley' in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 7
+2021-06-09 11:24:42 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:24:42 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\domains\magazinsmesiteley.ru\system\library\db\mysqli.php on line 10
+2021-06-09 11:24:42 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281
+2021-06-09 11:24:42 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\magazinsmesiteley.ru\install\controller\install\step_3.php on line 281

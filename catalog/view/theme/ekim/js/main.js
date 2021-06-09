@@ -1,4 +1,4 @@
-console.log(1)
+
 
 // Burger
 const open    = document.querySelector('.header__burger');
@@ -8,15 +8,12 @@ open.onclick = function() {
   menu.classList.toggle('menu__active')
   open.classList.toggle('burger__active')
 }
-
-// Swiper
-var swiper = new Swiper(".mySwiper", {
+var swiperTop = new Swiper(".swiperTopHome", {
   navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
   },
 });
-
 // Swiper_2
 var swiper = new Swiper(".mySwiper_2", {
   slidesPerView: 4,

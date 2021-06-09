@@ -1,0 +1,15 @@
+<div class="header__slider lg:w-1/2 mt-20 lg:mt-0">
+    <div class="swiper-container swiperTopHome">
+        <div class="swiper-wrapper">
+        {% for banner in banners %}
+            <div class="swiper-slide">
+                <img class="header__img" src="{{ banner.image }}" alt="{{ banner.title }}">
+            </div>
+        {% endfor %}
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+<!-- swiper-container -->
+</div>
+<!-- /.header__slider -->
